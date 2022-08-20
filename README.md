@@ -8,7 +8,7 @@ To download the dataset, run this command:
 ```
 !bash getData.sh
 ```
-## Refactor the dataroot as follow:
+## Refactor the root as follow:
 ```
 root/
 ├── coco/
